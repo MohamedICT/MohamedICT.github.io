@@ -1,5 +1,17 @@
-.locatie{
-    background-color: blue
-    color: white;
-    padding: 10px;
+html ,  body{
+    height: 100%    
+}
+body{
+    background-image: url("backgr.jpg");
+    background-color: #ffffff;;
+    background-size: cover;
+    display: flex
+}
+.mpage{
+    width: 100%;
+    height: 100%;
+    font-size: 36px;
+    padding: 2cm
+    margin: 0 auto;
+    text-align: center;
 }
