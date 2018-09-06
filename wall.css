@@ -17,7 +17,7 @@ a{
 
 .mynavbar a:hover {
     background-color: #ddd;
-    color: rgb(255, 187, 187);
+    color: rgb(red, green, blue);
 }
   
 .mynavbar a.active {
@@ -110,5 +110,11 @@ h1{
 
 .foo{
     align-content: center;
+    text-align: center;
+}
+
+table {
+    border: 1px solid black;
+    padding: 5%;
     text-align: center;
 }
